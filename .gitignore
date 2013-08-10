@@ -1,0 +1,6 @@
+# git never tracks these files
+
+target/
+.classpath
+.project
+~*
