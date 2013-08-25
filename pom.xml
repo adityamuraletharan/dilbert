@@ -9,9 +9,9 @@
   <url>http://maven.apache.org</url>
   
    <scm>
-	<connection>scm:git:git@github.com:adityamuraletharan/dilbert</connection>
-	<url>scm:git:git@github.com:adityamuraletharan/dilbert</url>
-	<developerConnection>scm:git:git@github.com:adityamuraletharan/dilbert</developerConnection>
+	<connection>scm:git:git@github.com:adityamuraletharan/dilbert.git</connection>
+	<url>scm:git:git@github.com:adityamuraletharan/dilbert.git</url>
+	<developerConnection>scm:git:git@github.com:adityamuraletharan/dilbert.git</developerConnection>
   </scm>
   
   <distributionManagement>
